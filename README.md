@@ -1,38 +1,43 @@
-# 👋 Hey there, I'm Jérémy!
+<div align="center">
 
-## 💻 Software Engineer | Passionate Problem Solver | Tech Enthusiast
+# 👋 Hey there, I'm Jérémy Durrieu!
 
-Welcome to my GitHub! I'm a Software Engineer with a passion for building clean, efficient, and scalable solutions. Whether it's crafting elegant code, exploring new technologies, or optimizing performance, I'm always up for a challenge.
+### Backend Engineer | Full-Stack Enthusiast | Graduate of University Politehnica of Bucharest
+
+I'm focused on building robust, scalable, and efficient applications, from enterprise-grade backend systems to cloud infrastructure.
+
+---
+</div>
+
+## 🛠️ Core Tech Stack & Expertise
+
+My focus is primarily on the **Backend**, leveraging robust and proven technologies to handle complex logic and data, and deploying them reliably to the **Cloud**.
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Primary Languages** | **Java** (Core focus on enterprise applications), **Python** (Scripting, automation, data handling) |
+| **Web & Frameworks** | React, Spring Boot, Node.js |
+| **Cloud & DevOps** | **AWS** (Serverless and Infrastructure), Docker, CI/CD principles |
+| **Data Management** | Relational (SQL) and Non-Relational (NoSQL) Databases |
 
 ---
 
-## 🚀 About Me
-- 🏗️ Building cool and meaningful projects
-- 🎯 Focused on **backend development**, **system design**, and **performance optimization**
-- 📍 Currently exploring new opportunities 
-- 🌍 Passionate about **open-source**, **tech for good**, and **continuous learning**
+### Featured Technologies
 
----
+This visual section highlights my most comfortable and frequently used tools:
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![UML](https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
+
+Check out my pinned repositories for more!
 
 ### 🧠 Skill-Learning Application
 A modern take on skill-learning application using **PHP** and the **Symfony** framework.
@@ -42,18 +47,29 @@ A modern take on skill-learning application using **PHP** and the **Symfony** fr
 A **C++** project handling **NFC** read/ write operation and **SQL database** interactions.
 🔗 [EuskalPlantxa](https://github.com/JeremyDrr/EuskalPlantxa)
 
-### 💡 More on the way...
-Check out my pinned repositories for more!
+---
+
+## ⛰️ Beyond the Code
+
+When I'm not focused on system architecture, you might find me pursuing physical challenges.
+
+> **Fun Fact:** I love the challenge of combining the digital and the physical world: I can climb a mountain and be attending a meeting at the summit! It's all about reliable connections, in life and in software.
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-durrieu)
+## 🔗 Let's Connect!
+
+I'm always open to discussing new opportunities, interesting projects, or just chatting about tech and hiking!
+
+| Platform | Link |
+| :--- | :--- |
+| **🌐 Portfolio** | [My Website](https://jeremydrr.fr) |
+| **💼 LinkedIn** | [LinkedIn](https://www.linkedin.com/in/jeremy-durrieu) |
 
 ---
 
-## 💌 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeremyDrr&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeremyDrr&show_icons=true&theme=radical&hide_rank=true)
 
 ---
 
