@@ -40,7 +40,7 @@ This visual section highlights my most comfortable and frequently used tools:
 Check out my pinned repositories for more!
 
 ### 🧠 Skill-Learning Application
-A modern take on skill-learning application using **PHP** and the **Symfony** framework.
+A modern take on skill-learning application created in **PHP** with the **Symfony** framework and using the Stripe API.
 🔗 [SkillSpark](https://github.com/JeremyDrr/SkillSpark)
 
 ### 🛜 Euskal Plantxa
